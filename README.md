@@ -1,4 +1,4 @@
-# UFO-Database
+# UFO-Website
 
 ## Project Overview
 
@@ -33,6 +33,9 @@ Performing a UFO data search on our improved website is quite easy and broad.  I
  <img width="970" alt="2021-09-03 (5)" src="https://user-images.githubusercontent.com/84471904/132073540-7807fdff-0141-4fbd-afaa-74ba5eecf73f.png">
  
 
+## Summary
+The additional filters created for this webpage has made it a much better tool for accessing data about UFO sitings.  This webpage does have a few drawbacks.  There are currently no directions to the user on using this page.  The existing filter place holders may be confusing.  Also, it may not be intuitive that pressing Enter will generate the search after filters have been filled.  Finally, it may not be obvious that clicking on the upper words "UFO Sightings" will refresh the page.  
 
+Recommendationa for further development would be to address these drawbacks.  Another recommendation is to add a dropdown menu to the shape filter.  Many users may not be aware of the different options, such as formation, fireball, chevron, etc.  
 
 
