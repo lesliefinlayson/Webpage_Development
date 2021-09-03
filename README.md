@@ -1,8 +1,9 @@
-# UFO-Website
+# UFO Sightings: Fact or Fancy?
+## Website Development: 
 
 ## Project Overview
 
-The purpose of this project is to enhance our UFO sightings webpage.  Originally, our website's UFO data could only be filtered by date of the event.  The current and more sophisticated version makes it possible to do more advanced searches for these sightings by including additional filters:
+The purpose of this project is to enhance our UFO sightings webpage.  Originally, our webpage's UFO data could only be filtered by date of the event.  The current and more sophisticated version makes it possible to do more advanced searches for these sightings by including additional filters:
 
 •	by city
 
@@ -13,7 +14,7 @@ The purpose of this project is to enhance our UFO sightings webpage.  Originally
 •	by evidence shape
 
 ## Results
-Performing a UFO data search on our improved website is quite easy and broad.  It is possible to search by no filters, by as little as one filter and as many as all.  Examples are:
+Performing a UFO data search on our improved webpage is quite easy and broad.  It is possible to search by no filters, by as little as one filter and as many as all.  Examples are:
 
 ### _Example 1._  Accessing data without entering any filters.
   To access all the sightings, all that is needed is to go to the website:
@@ -28,7 +29,7 @@ Performing a UFO data search on our improved website is quite easy and broad.  I
 <img width="933" alt="2021-09-03 (3)" src="https://user-images.githubusercontent.com/84471904/132073041-8985ea93-73db-44bf-87cd-bf325da2500b.png">
 
 ### _Example 3._  Accessing data with multiple filters.
-  In this example, the sightings that were "light" and in "texas" were generated:
+  In this example, the sightings  for "light"  in "texas" were generated:
   
  <img width="970" alt="2021-09-03 (5)" src="https://user-images.githubusercontent.com/84471904/132073540-7807fdff-0141-4fbd-afaa-74ba5eecf73f.png">
  
