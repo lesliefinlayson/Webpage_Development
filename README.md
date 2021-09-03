@@ -2,5 +2,15 @@
 
 ## Project Overview
 
-The purpose of this project is to enhance a webpage that makes finding UFO sightings as simple and convenient as possible.  Originally, the data on this website could only be filtered by date.  The current and more sophisticated version of this website makes it possible to do more advanced searches for these sightings by adding additional filters, including by city, by state, by country, and by evidence shape.  
+The purpose of this project is to enhance our UFO sightings webpage.  Originally, our website's UFO data could only be filtered by date of the event.  The current and more sophisticated version makes it possible to do more advanced searches for these sightings by including additional filters:
+•	by city
+
+•	by state
+
+•	by country
+
+•	by evidence shape
+
+## Results
+Performing a data search on or is quite easy.  
 
