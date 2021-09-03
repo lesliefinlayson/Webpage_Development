@@ -1,5 +1,4 @@
-# UFO Sightings: Fact or Fancy?
-# Webpage Development: 
+# UFO Sightings: Fact or Fancy? Webpage Development
 
 ## Project Overview
 
